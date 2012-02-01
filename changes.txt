@@ -1,0 +1,5 @@
+4.11
+
+*) You need latest vimprj plugin version 1.06
+*) optimized algorithm detecting project for file
+
